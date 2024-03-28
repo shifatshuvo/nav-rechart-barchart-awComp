@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13",
+    "price": "$998",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg",
+    "description": "The latest iPhone featuring A15 Bionic chip, Super Retina XDR display, and improved camera system.",
+    "rating": 4.7,
+    "color": "Midnight Blue"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S21",
+    "price": "$795",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-s21-fe-5g.jpg",
+    "description": "Flagship Android smartphone with a stunning display, powerful Exynos processor, and versatile camera setup.",
+    "rating": 4.6,
+    "color": "Phantom Black"
+  },
+  {
+    "id": 3,
+    "name": "Google Pixel 6",
+    "price": "$699",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/google-pixel-6-pro.jpg",
+    "description": "Google's flagship phone with Tensor chip, advanced camera features, and seamless software experience.",
+    "rating": 4.5,
+    "color": "Sorta Sunny"
+  },
+  {
+    "id": 4,
+    "name": "OnePlus 9 Pro",
+    "price": "$899",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/oneplus-9-pro-.jpg",
+    "description": "High-performance Android device with Hasselblad camera system, Fluid AMOLED display, and fast charging.",
+    "rating": 4.6,
+    "color": "Morning Mist"
+  },
+  {
+    "id": 5,
+    "name": "Xiaomi Mi 11",
+    "price": "$749",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/xiaomi-mi11.jpg",
+    "description": "Premium smartphone offering Snapdragon 888 chipset, 108MP camera, and beautiful AMOLED display.",
+    "rating": 4.4,
+    "color": "Horizon Blue"
+  },
+  {
+    "id": 6,
+    "name": "Sony Xperia 1 III",
+    "price": "$1299",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/sony-xperia-1-iii.jpg",
+    "description": "Flagship Sony phone with 4K OLED display, Snapdragon 888 processor, and pro-grade camera features.",
+    "rating": 4.5,
+    "color": "Frosted Black"
+  },
+  {
+    "id": 7,
+    "name": "LG Velvet",
+    "price": "$599",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/lg-velvet-4g.jpg",
+    "description": "Stylish smartphone with a dual-screen accessory option, Snapdragon 765G chipset, and 5G connectivity.",
+    "rating": 4.3,
+    "color": "Aurora Gray"
+  },
+  {
+    "id": 8,
+    "name": "Realme GT",
+    "price": "$439",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/realme-gt-neo3-new.jpg",
+    "description": "Value flagship phone with Snapdragon 888 processor, 120Hz AMOLED display, and 65W fast charging.",
+    "rating": 4.2,
+    "color": "Dashing Blue"
+  },
+  {
+    "id": 9,
+    "name": "Motorola Edge 20 Pro",
+    "price": "$695",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/motorola-edge20-pro-.jpg",
+    "description": "Motorola's premium phone with Snapdragon 870 chipset, 144Hz OLED display, and versatile camera system.",
+    "rating": 4.4,
+    "color": "Cosmos Blue"
+  },
+  {
+    "id": 10,
+    "name": "Nokia X20",
+    "price": "$499",
+    "img": "https://fdn2.gsmarena.com/vv/bigpic/nokia-x20.jpg",
+    "description": "Solid mid-range phone with Snapdragon 480 chipset, Zeiss optics camera setup, and clean Android experience.",
+    "rating": 4.1,
+    "color": "Midnight Sun"
+  }
+]
